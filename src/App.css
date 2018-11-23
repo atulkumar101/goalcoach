@@ -1,0 +1,15 @@
+.dib{
+    display: inline;
+}
+
+.fl{
+    float: left;
+}
+
+.fr{
+    float: right;
+}
+
+.cb{
+    clear: both;
+}
